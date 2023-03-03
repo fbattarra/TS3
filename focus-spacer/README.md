@@ -8,5 +8,4 @@ When you cut, you'd better focus the laser in the middle of the material's thick
 
 Should you need another one, here you have what I made. Just be advised that every material has its best speed/power settings, so what I used to cut & engrave (4mm poplar plywood of low quality) could not be optimized for you.
 
-![image](https://user-images.githubusercontent.com/14162452/222268561-53fa55b2-4ff1-44ea-b5ac-16abfa8ae3e5.png)
-
+<img width="196" alt="image" src="https://user-images.githubusercontent.com/14162452/222738585-f6838cc8-5b1b-4922-8186-35095cd07d5b.png">
